@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="history-fileentry" mtime="1543505324" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/home/eca19/eca19086/cgra_2018/benchmarks/convolution/naive/convolution.pasm</stringvalue>
+		</li>
+	</entry>
+</gconf>

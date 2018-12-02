@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/eca19/eca19086/.local/share/meld/recent-QskSlT.meldcmp" added="2018-11-29T15:28:44Z" modified="2018-11-29T15:28:44Z" visited="2018-11-29T15:28:44Z">
+    <title>[bypass] convolution.pasm : [naive] convolution.pasm</title>
+    <desc>File comparison
+/home/eca19/eca19086/cgra_2018/benchmarks/convolution/bypass/convolution.pasm, /home/eca19/eca19086/cgra_2018/benchmarks/convolution/naive/convolution.pasm</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2018-11-29T15:28:44Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

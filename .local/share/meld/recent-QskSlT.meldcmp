@@ -1,0 +1,4 @@
+[Comparison]
+type = File
+paths = /home/eca19/eca19086/cgra_2018/benchmarks/convolution/bypass/convolution.pasm;/home/eca19/eca19086/cgra_2018/benchmarks/convolution/naive/convolution.pasm
+
