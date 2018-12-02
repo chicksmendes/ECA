@@ -53,18 +53,20 @@ $
 	e
 
 # File marks:
-'0  3  23  ~/cgra_2018/benchmarks/convolution/abu/Makefile
-'1  1  0  ~/cgra_2018/benchmarks/convolution/impLoad/Makefile
-'2  3  27  ~/cgra_2018/benchmarks/convolution/impLoad/Makefile
-'3  3  24  ~/cgra_2018/benchmarks/convolution/SIMD/Makefile
-'4  1  0  ~/cgra_2018/benchmarks/convolution/SIMD
-'5  3  23  ~/cgra_2018/benchmarks/convolution/imp/Makefile
-'6  3  26  ~/cgra_2018/benchmarks/convolution/bypass/Makefile
-'7  1  11  ~/.bash_profile
-'8  52  40  ~/cgra_2018/platforms/convolution/accu/architecture.xml
-'9  12  18  ~/cgra_2018/platforms/convolution/accu/architecture.xml
+'0  3  27  ~/cgra_2018/benchmarks/convolution/bypass2/Makefile
+'1  3  23  ~/cgra_2018/benchmarks/convolution/abu/Makefile
+'2  1  0  ~/cgra_2018/benchmarks/convolution/impLoad/Makefile
+'3  3  27  ~/cgra_2018/benchmarks/convolution/impLoad/Makefile
+'4  3  24  ~/cgra_2018/benchmarks/convolution/SIMD/Makefile
+'5  1  0  ~/cgra_2018/benchmarks/convolution/SIMD
+'6  3  23  ~/cgra_2018/benchmarks/convolution/imp/Makefile
+'7  3  26  ~/cgra_2018/benchmarks/convolution/bypass/Makefile
+'8  1  11  ~/.bash_profile
+'9  52  40  ~/cgra_2018/platforms/convolution/accu/architecture.xml
 
 # Jumplist (newest first):
+-'  3  27  ~/cgra_2018/benchmarks/convolution/bypass2/Makefile
+-'  1  0  ~/cgra_2018/benchmarks/convolution/bypass2/Makefile
 -'  3  23  ~/cgra_2018/benchmarks/convolution/abu/Makefile
 -'  1  0  ~/cgra_2018/benchmarks/convolution/abu/Makefile
 -'  1  0  ~/cgra_2018/benchmarks/convolution/impLoad/Makefile
@@ -162,10 +164,14 @@ $
 -'  4  13  ~/cgra_2018/build/convolution/naive/report/architecture.dot
 -'  42  0  ~/cgra_2018/build/convolution/naive/report/architecture.dot
 -'  1  0  ~/cgra_2018/build/convolution/naive/report/architecture.dot
--'  4  13  ~/cgra_2018/build/convolution/naive/report/architecture.dot
--'  42  0  ~/cgra_2018/build/convolution/naive/report/architecture.dot
 
 # History of marks within files (newest to oldest):
+
+> ~/cgra_2018/benchmarks/convolution/bypass2/Makefile
+	"	3	27
+	^	3	28
+	.	3	27
+	+	3	27
 
 > ~/cgra_2018/benchmarks/convolution/abu/Makefile
 	"	3	23

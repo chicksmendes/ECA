@@ -1,45 +1,3 @@
-rm -rf cgra_2018_3
-htop
-htop
-rm -rf cgra_2018_3
-ls
-rm -rf cgra_2018_1
-ls
-rm -rf cgra_2018
-clear
- git clone /home/eca19/cgra_2018.git
- echo "source /home/eca19/settings.sh" > .bash_profile
-logout
-cd cgra_2018/platforms/convolution/
-ls
-cp -R naive bypass
-cd bypass/
-ls
-cd cgra_2018/benchmarks/convolution/
-ls
-cp -R naive bypass
-cd bypass/
-cd ..
-cd naive/
-make compare 
-cd ..
-cd bypass/
-ls
-logout
-cd cgra_2018/build/convolution/bypass/report/
-xdot architecture.dot 
-cd ..
-cd report/
-xdot architecture.dot 
-cd cgra_2018/benchmarks/convolution/bypass/
-make clean
-make
-cd cgra_2018/platforms/
-cd convolution/
-ls
-cd bypass/
-ls
-cd cgra_2018/benchmarks/convolution/bypass/
 more Makefile 
 vim Makefile 
 make clean
@@ -498,3 +456,45 @@ cd ..
 cd re
 cd report/
 xdot architecture.dot 
+cd cgra_2018/benchmarks/convolution/acu
+cd cgra_2018/benchmarks/convolution/abu/
+ls
+make clean
+make clean
+make 
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make comapre
+make compare
+make clean
+make
+make compare
+make performance
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
+make clean
+make
+make compare
